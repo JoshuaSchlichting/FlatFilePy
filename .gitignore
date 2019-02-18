@@ -1,2 +1,6 @@
 flatfile-env/
 .idea/
+run.spec
+dist/
+build/
+__pycache__/
